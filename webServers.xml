@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="350b1643-7d34-41da-9c5d-4ff0969f76e0" name="inrc.law.uiowa.edu" url="http://inrc.law.uiowa.edu.dd:8083">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

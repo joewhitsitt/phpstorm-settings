@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="switch" value="switch ($var$) {&#10;  case '$variable$':&#10;    // Code goes here.&#10;    break;&#10;&#10;  default:&#10;    // Code to be executed if n is different from all variables.&#10;    break;&#10;&#10;}" description="'switch' statement" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
