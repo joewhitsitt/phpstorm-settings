@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../docroot/sites/inrc.law.uiowa.edu/modules/features/inrc_grant_entity/js/grantForm.js [uiowa703]'" />
-    <option name="defaultScopeName" value="File '.../docroot/sites/inrc.law.uiowa.edu/modules/features/inrc_grant_entity/js/grantForm.js [uiowa703]'" />
-    <option name="SEARCH_SCOPE" value="File '.../docroot/sites/inrc.law.uiowa.edu/modules/features/inrc_grant_entity/js/grantForm.js [uiowa703]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
