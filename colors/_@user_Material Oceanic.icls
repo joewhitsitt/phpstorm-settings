@@ -4,7 +4,7 @@
     <property name="created">2018-03-30T15:01:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-04-03T11:48:48</property>
+    <property name="modified">2018-04-03T12:11:56</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -370,11 +370,7 @@
         <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
-    <option name="CONSOLE_GRAY_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
+    <option name="CONSOLE_GRAY_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="70ff70" />
