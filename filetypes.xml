@@ -7,6 +7,7 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern="_field-name-field-inrc-address.scss" type="PLAIN_TEXT" />
       <mapping pattern=".inputrc" type="PLAIN_TEXT" />
       <mapping pattern="delete" type="PLAIN_TEXT" />
     </extensionMap>
