@@ -4,6 +4,9 @@
       <webServer id="350b1643-7d34-41da-9c5d-4ff0969f76e0" name="inrc.law.uiowa.edu" url="http://inrc.law.uiowa.edu.dd:8083">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8fa68faf-4b5b-46a0-a44f-938f168fd104" name="uiowa801" url="https://localhost:32795">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
